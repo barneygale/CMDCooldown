@@ -1,0 +1,8 @@
+name: CMDCooldown
+version: 0.1
+author: Barney Gale
+main: com.github.barneygale.CMDCooldown
+permissions:
+    cmdcooldown.override:
+        description: Player not subject to command cooldown
+        default: false
